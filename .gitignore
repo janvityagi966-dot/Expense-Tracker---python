@@ -1,0 +1,12 @@
+# Sab .py files ignore kar do
+*.py
+
+# Sirf Expense-Tracker.py ko ignore mat karo
+!Expense-Tracker.py
+
+# README rakho
+!README.md
+
+# Python ki gandgi ignore karo
+__pycache__/
+*.pyc
